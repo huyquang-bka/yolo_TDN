@@ -1,0 +1,9 @@
+4.6,5.7,1,small
+5.7,6.5,1,medium
+6.5,9.1,1,big
+9.1,10.3,2,small&small
+10.3,11.1,2,small&medium
+11.1,11.5,2,small&big
+11.5,12.3,2,medium&medium
+12.3,13.1,2,medium&big
+13.1,13.7,2,big&big
